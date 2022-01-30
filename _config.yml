@@ -1,6 +1,6 @@
-site: Personal Jekyll Theme
+site: J. Simmons, Ph.d.
 
-url: 
+url: https://thejsimmons.com/
 baseurl: 
 
 collections:
@@ -12,7 +12,7 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /activities/:slug
 
 defaults:
   -
