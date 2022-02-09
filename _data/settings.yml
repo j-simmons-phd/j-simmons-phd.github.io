@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Personal
-  favicon_image: /images/favicon.png
+  site_title: J. Simmons, Ph.d.
+  favicon_image: /images/favicon/android-chrome-192x192.png
 
 header_settings:
   logo_image: 
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Activities'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: "The Perfect is the enemy of the Good."
 
 hero_settings:
   overlay_opacity: 0.8
@@ -27,20 +27,20 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  form_action: 'https://formspree.io/f/xdobebjd'
+  confirmation_url: ''
+  email_subject: '***Contact Form Message***'
   send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/jedibfa/?hl=en'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
-  pinterest_url: ''
+  pinterest_url: 'https://www.pinterest.com/jedibfa/'
   medium_url: ''
   quora_url: ''
   amazon_url: ''
@@ -50,15 +50,16 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
-  flickr_url: ''
+  github_url: 'https://github.com/j-simmons-phd'
+  reddit_url: 'https://www.reddit.com/user/jedibfa/'
+  flickr_url: 'https://www.flickr.com/photos/jedibfa/'
+  twitch_url: 'https://twitch.tv/jedibfa'
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/the-j-simmons/'
 
 color_settings:
   background_color: '#ffffff'

@@ -1,10 +1,11 @@
 ---
 title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/contact.jpg
+subtitle: Open hailing frequencies...
+description: Have a question or comment about one of my activities?  Looking to book some of my time to support your Digital Engineering, OSHW, Theatre, or Geek projects?  Use the form below and let's talk.
+featured_image: /images/contact_page_photo.jpg
 ---
+
+{{ page.description }}
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.

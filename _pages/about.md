@@ -1,32 +1,42 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+subtitle: Never tell me the odds
+description: Never tell me the odds
+featured_image: /images/about_page_photo.jpg
 ---
 
-## Features
+## The Digital Engineer
 
-We've packed Personal full of powerful features to help showcase your work:
+#### Over 15 years in Digital/Systems Engineering
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+- Ph.D. in Space Systems Engineering from the Air Force Institute of Technology
+- Modeling & Simulation automation/integration for Multi-Disciplinary Analysis & Optimization (MDAO)
+- Implementing Digital Threads between MDAO and MBSE
 
-## Get Personal
+#### Supported all corners of the Aerospace Industry
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+- **Government:** DoD \| Air Force \| Navy \| Army \| NASA
+- **Contractors:** Northrop Gumman \| Lockheed Martin \| Boeing \| SAIC
+- **National Labs:** Jet Propulsion Laboratory \| Applied Physics Laboratory \| Sandia National Laboratories
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+## The OSHW Advocate
+
+- Lead developer for two OSHW projects certified in the initial certification pool: [US000006 - Shepard Test Stand ](https://certification.oshwa.org/us000006.html) \| [US000058 - Holoseat](https://certification.oshwa.org/us000058.html)
+- Presenter at the [2012](https://2012.oshwa.org/demonstration-of-the-shephard-rocket-motor-test-stand/), [2013](https://2013.oshwa.org/schedule/), and [2015](https://2015.oshwa.org/program/) OSHW Summits covering topics including open source spaceflight hardware, export controls, and open source engineering analysis
+- Chief architect and project manager for [Open Design Engine](https://www.kickstarter.com/projects/373493158/open-hardware-needs-a-sourceforge-of-its-own/), one of the first all inclusive applications for hosting OSHW projects on the internet
+- Chief architect for the [Distributed OSHW Framework](http://dof.sliderule.io/), a tool independent methodology for developing and sharing OSHW
+
+## The Theatre Professional
+
+- BFA in Theatre Lighting Design/Technology from Florida State University
+- Board member [Brave Spirits](https://www.bravespiritstheatre.com/) (2018-2022)
+- Studied lighting design under Pat Simmons, USA
+- Lighting design credits include *Guys and Dolls*, *My Fair Lady*, *Three Days of Rain*, *Antony and Cleopatra*, and the *Surprise!* burlesque show in Santa Fe and Peñasco, NM
+
+## The Geek
+
+- Key fandoms: Star Wars \| Star Trek \| Transformers \| Marvel Cinematic Universe
+- Panelist for Star Wars, Star Trek, and Marvel Cinematic Universe content at [Nerd Talk with Jake & John](https://www.youtube.com/channel/UC9CBtC6sPAsFstoymfsjn_Q)
+- Own and operate two 3D printers: [CR-10S Pro](https://github.com/j-simmons-phd/custom-cr-10s-pro) \| PrintrBot Simple Metal
+- Cosplay Star Trek (2070s uniforms) and Renaissance Fair garb
+- Former life-time member of [TechShop DC](https://en.wikipedia.org/wiki/TechShop)
