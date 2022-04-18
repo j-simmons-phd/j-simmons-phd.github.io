@@ -1,10 +1,10 @@
 basic_settings:
-  site_title: J. Simmons, Ph.d.
+  site_title: J. Simmons, Ph.D.
   favicon_image: /images/favicon/android-chrome-192x192.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: /images/TheJSimmons_Logo2.png
+  logo_width: 350
 
 menu_settings:
   menu_items:
