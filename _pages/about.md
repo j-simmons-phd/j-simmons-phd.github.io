@@ -7,7 +7,7 @@ featured_image: /images/about_page_photo.jpg
 
 ## The Digital Engineer
 
-#### Over 15 years in Digital/Systems Engineering
+#### 20 years in Digital/Systems Engineering
 
 - Ph.D. in Space Systems Engineering from the Air Force Institute of Technology
 - Modeling & Simulation automation/integration for Multi-Disciplinary Analysis & Optimization (MDAO)
@@ -25,13 +25,6 @@ featured_image: /images/about_page_photo.jpg
 - Presenter at the [2012](https://2012.oshwa.org/demonstration-of-the-shephard-rocket-motor-test-stand/), [2013](https://2013.oshwa.org/schedule/), and [2015](https://2015.oshwa.org/program/) OSHW Summits covering topics including open source spaceflight hardware, export controls, and open source engineering analysis
 - Chief architect and project manager for [Open Design Engine](https://www.kickstarter.com/projects/373493158/open-hardware-needs-a-sourceforge-of-its-own/), one of the first all inclusive applications for hosting OSHW projects on the internet
 - Chief architect for the [Distributed OSHW Framework](http://dof.sliderule.io/), a tool independent methodology for developing and sharing OSHW
-
-## The Theatre Professional
-
-- BFA in Theatre Lighting Design/Technology from Florida State University
-- Board member [Brave Spirits](https://www.bravespiritstheatre.com/) (2018-2022)
-- Studied lighting design under Pat Simmons, USA
-- Lighting design credits include *Guys and Dolls*, *My Fair Lady*, *Three Days of Rain*, *Antony and Cleopatra*, and the *Surprise!* burlesque show in Santa Fe and Peñasco, NM
 
 ## The Geek
 
